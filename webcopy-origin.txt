@@ -1,0 +1,240 @@
+Uri: https://beauti-baza.by/
+File Name: C:\Downloaded Web Sites\beauti-baza.by\index.htm
+Content Type: text/html
+
+Uri: https://beauti-baza.by/data/brows.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\data\brows.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/data/face.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\data\face.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/data/hair.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\data\hair.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/data/lashes.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\data\lashes.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/data/men.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\data\men.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/data/nails.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\data\nails.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/data/podology.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\data\podology.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/fonts/Montserrat-Bold.woff2
+File Name: C:\Downloaded Web Sites\beauti-baza.by\fonts\Montserrat-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://beauti-baza.by/fonts/Montserrat-Light.woff2
+File Name: C:\Downloaded Web Sites\beauti-baza.by\fonts\Montserrat-Light.woff2
+Content Type: font/woff2
+
+Uri: https://beauti-baza.by/fonts/Montserrat-Medium.woff2
+File Name: C:\Downloaded Web Sites\beauti-baza.by\fonts\Montserrat-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://beauti-baza.by/fonts/Montserrat-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\beauti-baza.by\fonts\Montserrat-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://beauti-baza.by/fonts/Poppins-Bold.woff2
+File Name: C:\Downloaded Web Sites\beauti-baza.by\fonts\Poppins-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://beauti-baza.by/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://beauti-baza.by/images/bannerL.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bannerL.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/bannerM1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bannerM1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/bannerM2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bannerM2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/bannerS1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bannerS1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/bannerS2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bannerS2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/bb_pro_1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bb_pro_1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/bb_pro_1x.webp
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bb_pro_1x.webp
+Content Type: image/webp
+
+Uri: https://beauti-baza.by/images/bb_pro_2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bb_pro_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/bb_pro_2x.webp
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\bb_pro_2x.webp
+Content Type: image/webp
+
+Uri: https://beauti-baza.by/images/brows1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\brows1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/brows2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\brows2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/crlogo.svg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\crlogo.svg
+Content Type: image/svg+xml
+
+Uri: https://beauti-baza.by/images/dots.svg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\dots.svg
+Content Type: image/svg+xml
+
+Uri: https://beauti-baza.by/images/dotstwo.svg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\dotstwo.svg
+Content Type: image/svg+xml
+
+Uri: https://beauti-baza.by/images/face1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\face1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/face2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\face2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://beauti-baza.by/images/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://beauti-baza.by/images/favicon.ico
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://beauti-baza.by/images/hair1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\hair1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/hair2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\hair2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/krest1x_pink.png
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\krest1x_pink.png
+Content Type: image/png
+
+Uri: https://beauti-baza.by/images/lashes1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\lashes1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/lashes2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\lashes2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/men1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\men1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/men2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\men2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/nails1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\nails1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/nails2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\nails2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/podology1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\podology1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/podology2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\podology2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://beauti-baza.by/images/salon1x1.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/salon1x1.webp
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon1x1.webp
+Content Type: image/webp
+
+Uri: https://beauti-baza.by/images/salon1x2.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon1x2.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/salon1x2.webp
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon1x2.webp
+Content Type: image/webp
+
+Uri: https://beauti-baza.by/images/salon2x1.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon2x1.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/salon2x1.webp
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon2x1.webp
+Content Type: image/webp
+
+Uri: https://beauti-baza.by/images/salon2x2.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon2x2.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/salon2x2.webp
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\salon2x2.webp
+Content Type: image/webp
+
+Uri: https://beauti-baza.by/images/solarium1x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\solarium1x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/images/solarium2x.jpg
+File Name: C:\Downloaded Web Sites\beauti-baza.by\images\solarium2x.jpg
+Content Type: image/jpeg
+
+Uri: https://beauti-baza.by/index.97aac2d06c6ec8f87ab7.css
+File Name: C:\Downloaded Web Sites\beauti-baza.by\index.97aac2d06c6ec8f87ab7.css
+Content Type: text/css
+
+Uri: https://beauti-baza.by/js/index.24fc31777a4b5ff66de9.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\js\index.24fc31777a4b5ff66de9.js
+Content Type: application/javascript
+
+Uri: https://beauti-baza.by/js/vendor/gsap.min.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\js\vendor\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/49899391
+File Name: C:\Downloaded Web Sites\beauti-baza.by\watch\49899391
+Content Type: image/gif
+
+Uri: https://sonline.su/js/widget3/widget3.js
+File Name: C:\Downloaded Web Sites\beauti-baza.by\js\widget3\widget3.js
+Content Type: application/javascript
+
