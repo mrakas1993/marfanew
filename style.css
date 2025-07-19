@@ -999,10 +999,6 @@ button {
   padding-bottom: 60px;
 }
 @media screen and (min-width: 1260px) {
-  .padding {
-    padding-top: 140px;
-    padding-bottom: 140px;
-  }
   .padding_s {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -1645,7 +1641,7 @@ button {
 @media screen and (min-width: 768px) {
   .selection__lists {
     max-width: 80%;
-    width: 1000px;
+    width: 1200px;
   }
 }
 @media screen and (min-width: 1260px) {
@@ -2559,4 +2555,19 @@ button {
   font-weight: 300;
   src: url(fonts/Montserrat-Light.woff2) format("woff2");
   font-display: swap;
+}
+.swiper{
+  margin: 0 !important;
+}
+.swiper-slide {
+  text-align: center;
+}
+.swiper-slide img{
+  height: 450px;
+}
+.mymSwiper .swiper-slide img{
+  height: 640px;
+}
+.about__content ul li{
+  margin-bottom: 20px;
 }
